@@ -1,14 +1,10 @@
-Hi there 👋 Welcome to my Github repositories !
-
-
 <div id="header" align="center">
   <img src="<iframe src="https://giphy.com/embed/7FrOU9tPbgAZtxV5mb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb">via GIPHY</a></p>" width="100"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=WernerRobberechts&style=flat-square&color=blue" alt=""/>
+Hi there 👋 Welcome to my Github repositories !
 
-<!--
-**WernerRobberechts/WernerRobberechts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://komarev.com/ghpvc/?username=WernerRobberechts&style=flat-square&color=blue" alt=""/>
 
 About me:
 
