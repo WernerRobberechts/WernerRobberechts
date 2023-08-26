@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="<iframe src="https://giphy.com/embed/7FrOU9tPbgAZtxV5mb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-security-binary-7FrOU9tPbgAZtxV5mb">via GIPHY</a></p>" width="100"/>
-</div>
-
 Hi there 👋 Welcome to my Github repositories !
 
 <img src="https://komarev.com/ghpvc/?username=WernerRobberechts&style=flat-square&color=blue" alt=""/>
